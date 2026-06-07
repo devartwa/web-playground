@@ -1,0 +1,19 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="g" cx="38%" cy="42%" r="75%">
+      <stop offset="0%" stop-color="#1a1726"/>
+      <stop offset="55%" stop-color="#0b0d13"/>
+      <stop offset="100%" stop-color="#07080c"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <g transform="translate(96,150)">
+    <circle cx="18" cy="36" r="14" fill="#8b7bff"/>
+    <path d="M50 12a40 40 0 0 1 0 48" stroke="#8b7bff" stroke-width="8" stroke-linecap="round" opacity="0.85"/>
+    <path d="M76 -8a64 64 0 0 1 0 88" stroke="#36e6c0" stroke-width="8" stroke-linecap="round" opacity="0.65"/>
+    <path d="M102 -28a88 88 0 0 1 0 128" stroke="#ff5c4d" stroke-width="8" stroke-linecap="round" opacity="0.5"/>
+  </g>
+  <text x="96" y="360" font-family="Space Grotesk, sans-serif" font-size="92" font-weight="700" letter-spacing="-2" fill="#f3f1ea">EchoRoom</text>
+  <text x="98" y="430" font-family="Inter, sans-serif" font-size="34" fill="#8a8f9c">Rehearse like the room is already full.</text>
+  <text x="98" y="556" font-family="Inter, sans-serif" font-size="22" letter-spacing="6" fill="#8b7bff">VIRTUAL&#160;&#160;REHEARSAL&#160;&#160;STUDIO</text>
+</svg>
